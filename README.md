@@ -11,9 +11,17 @@
 - Editar main.js
 - Agregar el README.md
 
-## Fusión #1: del menú con el desktop
+## Fusión #2: del menú en mobile
 
 - Analizar el archivo clase8.hmtl
+- Editar index.html
+- Editar styles.css
+- Editar main.js
+- Editar el README.md
+
+## Fusión #3: carrito de compras
+
+- Analizar el archivo clase13.hmtl
 - Editar index.html
 - Editar styles.css
 - Editar main.js
