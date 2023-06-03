@@ -34,3 +34,11 @@
 - Editar styles.css
 - Editar main.js
 - Editar el README.md
+
+## Fusión #5: Detalles de un producto
+
+- Analizar el archivo clase12.hmtl
+- Editar index.html
+- Editar styles.css
+- Editar main.js
+- Editar el README.md
