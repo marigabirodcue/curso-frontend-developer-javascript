@@ -26,3 +26,11 @@
 - Editar styles.css
 - Editar main.js
 - Editar el README.md
+
+## Fusión #4: Lista de productos: HTML a partir de arrays
+
+- Analizar el archivo clase6.hmtl
+- Editar index.html
+- Editar styles.css
+- Editar main.js
+- Editar el README.md
