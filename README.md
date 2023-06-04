@@ -42,3 +42,10 @@
 - Editar styles.css
 - Editar main.js
 - Editar el README.md
+
+## Fusión #6: Interacción entre todos los componentes
+
+- Editar index.html
+- Editar styles.css
+- Editar main.js
+- Editar el README.md
